@@ -1,0 +1,191 @@
+timetable_this:
+  - show me time table for this week
+  - check timetable for this week
+  - show timetable for this week
+  - timetable for this week
+  - i need timetable for this week
+  - i want to see timetable for this week
+  - i want to check timetable for this week
+timetable_next:
+  - show me time table for next week
+  - check timetable for next week
+  - show timetable for next week
+  - timetable for next week
+  - i need timetable for next week
+  - i want to see timetable for next week
+  - i want to check timetable for next week
+open_browser:
+  - open browser
+  - start the browser
+  - start yandex
+  - start yandex browser
+  - open yandex browser
+open_discord:
+  - open discord
+  - start the discord
+  - start discord
+  - launch discord
+  - launch discordic
+  - open discordic
+  - open discard
+open_spotify:
+  - open spotify
+  - start the spotify
+  - start spotify
+  - start spoty
+  - launch spotify
+  - launch spoty
+  - open spoty
+thanks:
+  - thank you
+  - you are amazing
+  - good job
+  - nice work
+  - nice job
+  - amazing work
+  - thanks
+  - thank you very much
+  - you are the best
+  - very helpful
+  - well done
+  - nice to work with you
+check:
+  - can you hear me
+  - do you hear me
+  - are you here
+  - do you listen
+  - are you available
+check_new_emails:
+  - can you check new emails
+  - check new emails
+  - check email
+  - check emails
+  - can you check my email
+  - check my email
+  - can you check messages
+  - new messages
+  - check messages
+  - new emails
+increase_sound:
+  - volume plus
+  - increase volume
+  - increase sound
+  - sound up
+  - volume up
+  - turn up the volume
+  - turn up the sound
+  - turn up the volume little bit
+decrease_sound:
+  - volume down
+  - volume minus
+  - decrease volume
+  - turn down the volume
+  - reduce the sound
+  - reduce volume
+  - decrease sound
+  - decrease sound little bit
+  - turn down the sound
+mute_sound:
+  - mute all
+  - mute speakers
+  - mute headphone
+  - switch off the sound
+  - switch off volume
+  - mute sound
+  - mute volume
+  - mute
+  - volume minimum
+  - minimise the volume
+  - sound minimum
+  - minimise the sound
+unmute_sound:
+  - turn on the sound
+  - unmute the sound
+  - switch on the sound
+  - switch on volume
+  - volume on
+  - speakers on
+  - unmute
+  - volume maximum
+  - volume max
+  - maximum sound
+search_browser:
+  - search in the browser
+  - can you find please
+  - can you search
+  - i want to find something
+  - i need to search
+  - i need to find
+  - can i find
+  - can you check for me
+  - find information
+play_spotify:
+  - play the music
+  - switch on the music
+  - i want to listen music
+  - turn on the music
+  - listen the music
+  - play spotify
+pause_spotify:
+  - pause the music
+  - stop the music
+  - pause music
+  - don't play music
+  - switch off the music
+  - turn off the music
+  - pause spotify
+  - stop spotify
+next_song:
+  - start next song
+  - next song
+  - play next
+  - next
+  - play next song
+  - can you play next song
+  - can you start next song
+previous_song:
+  - play previous song
+  - play prev song
+  - previous song
+  - can you play previous song
+  - start previous song
+  - play last song
+get_weather:
+  - tell me weather
+  - what is the weather
+  - weather in Nottingham
+  - what is the weather in Nottingham
+  - what is forecast
+  - what's the weather
+  - can you check the weather
+  - can you tell me the weather now
+  - get weather
+get_exam_timetable:
+  - when i have the exams
+  - check the exams
+  - check my exams
+  - what is my exams
+  - when is my exams
+  - when my exams
+  - i want to see exams
+get_university_news:
+  - get university news
+  - check news from uni
+  - check news from university
+  - whats new in university
+  - check university news
+  - news at ntu
+get_university_events:
+  - check new events
+  - check university events
+  - what are new events
+  - any events from uni
+  - any events from university
+  - event at ntu
+new_coursework:
+  - start new coursework
+  - can you start new coursework
+  - i want to start new project
+  - start new project
+  - i want to start new assignment
+  - start new assignment
